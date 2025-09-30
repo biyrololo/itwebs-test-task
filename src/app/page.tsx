@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="space-y-8 py-6">
       <section className="text-center space-y-4">
-        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text h-14 text-transparent">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text min-h-14 text-transparent">
           Next.js Rendering Methods
         </h1>
         <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto px-4">
