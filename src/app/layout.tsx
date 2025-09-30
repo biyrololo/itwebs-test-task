@@ -56,7 +56,7 @@ export default function RootLayout({
             </nav>
           </div>
         </header>
-        <main className="flex-1 container py-4 md:py-6">
+        <main className="flex-1 container py-4 md:py-6 mx-auto">
           {children}
         </main>
         <Toaster />
